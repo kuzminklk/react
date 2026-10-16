@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, React, SVG, AI (Raptor mini (Preview), for debugging)
 
 Finished
 
-### Development Path
+### Path
 
 1. Completed project from documentation material
 
